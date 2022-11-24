@@ -38,6 +38,8 @@
             //  - Commitleri uzak repoya atma --> git push origin master
             //
             //  - Uzak repodan değişiklikleri çekme --> git pull
+            //
+            //  - 
 
 
         }
