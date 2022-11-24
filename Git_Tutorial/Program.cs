@@ -12,6 +12,7 @@
             // Versiyon güncelleme --> git update-git-for-windows
             //
             // Git repo oluşturmak için --> git init
+            //
 
 
         }
