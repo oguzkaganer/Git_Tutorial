@@ -42,7 +42,7 @@
             //
             //  - Uzak repodan değişiklikleri çekme --> git pull
             //
-            //  - 
+            //  - Branch
 
 
         }
