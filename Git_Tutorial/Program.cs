@@ -33,13 +33,16 @@
             //
             //  - Stage'dekileri commitleme --> git commit -m "commit mesajı"  OR  git commit -m mesaj (tek kelimelik mesaj olacaksa)
             //
-            //  - Commiti silme --> git reset --hard <Bir Önceki Commit ID>  ÖRNEK : git reset --hard 184a7b5e
+            //  - İstenilen bir commite geri dönme --> git reset --hard <Commit ID>  ÖRNEK : git reset --hard 184a7b5e
+            //     - Eğer bir düzenleme yapıp commit işlemi yaptıysanız ancak henüz push yapmadıysanız ve son commitinizi silmek istiyorsanız
+            //       bunun için bu komutu kullanabilirsiniz. commit IDsine bir önceki commitin ıd sini yazarak.
+            //     - Diğer durumda yani commit uzak repoya atımışsa istenilen geçmiş commite dönülebilir ancak ancak commitler uzak repodan silinmez.
             //
             //  - Commitleri uzak repoya atma --> git push origin master
             //
             //  - Uzak repodan değişiklikleri çekme --> git pull
             //
-            //  - 
+            //  - Deneme yazısı... 
 
 
         }
