@@ -39,10 +39,11 @@
             //     - Diğer durumda yani commit uzak repoya atımışsa istenilen geçmiş commite dönülebilir ancak ancak commitler uzak repodan silinmez.
             //
             //  - Commitleri uzak repoya atma --> git push origin master
+            //     - Branch ismi farklı ise --> git push origin Branchİsmi
             //
             //  - Uzak repodan değişiklikleri çekme --> git pull
             //
-            //  - Branch
+            //  
 
 
 
