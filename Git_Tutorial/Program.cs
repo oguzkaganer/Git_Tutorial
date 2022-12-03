@@ -1,7 +1,11 @@
 
-//  - CMD üzerinde konum değitirmek için;
+//  - CMD üzerinde dizin değitirmek için;
 //     -  Bir üst konuma gitmek için --> cd ..
 //     -  Belirli bir konum için --> cd konumadresi  örnek :  cd C:\Users\user1\source\repos
+
+//  - GitBash üzerinde dizin değitirmek için;
+//     -  Bir üst konuma gitmek için --> cd ..
+//     -  Belirli bir konum için --> cd konumadresi  örnek :  cd \c\Users\user1\source\repos
 
 
 //  - Versiyon kontrolü --> git --version
