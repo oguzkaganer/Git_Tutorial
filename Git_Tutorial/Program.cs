@@ -43,5 +43,5 @@
 //
 //  - Uzak repodan değişiklikleri çekme --> git pull
 //
-//  
+//  - Commit mesajını değiştirme --> 
 
