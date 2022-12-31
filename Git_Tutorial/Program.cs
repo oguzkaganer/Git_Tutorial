@@ -43,5 +43,5 @@
 //
 //  - Uzak repodan değişiklikleri çekme --> git pull
 //
-//  - Commit mesajını değiştirme --> 
+//  - Commit mesajını değiştirme (before push) --> git commit --amend -m "yeni mesaj"
 
